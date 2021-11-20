@@ -1,0 +1,4 @@
+H:\Visual Studio 2019\Projects\3C1felipe10\3C1felipe10\obj\Debug\3C1felipe10.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Projects\3C1felipe10\3C1felipe10\obj\Debug\_3C1felipe10.EPA.resources
+H:\Visual Studio 2019\Projects\3C1felipe10\3C1felipe10\obj\Debug\_3C1felipe10.Properties.Resources.resources
+H:\Visual Studio 2019\Projects\3C1felipe10\3C1felipe10\obj\Debug\3C1felipe10.csproj.GenerateResource.cache
